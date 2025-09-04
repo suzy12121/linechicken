@@ -1,0 +1,4 @@
+flask 
+Line-bot-sdk==2.5.0
+google-generativeai
+python-dotenv
