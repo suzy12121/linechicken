@@ -104,6 +104,8 @@ def build_prompt(user_text: str, user_id: str) -> str:
     - 總務 Brandon 雖然不是學術，但還是接了 Unity 的放學聯課，電。好像跟薑餅人有很大的關聯。
     - 文書兼公關 葉子 是建電裡面罕見的文組人，是李白狂粉，信手捻來就是文言文。會講相聲。會按讚每個人的每則限動。
     - 公關兼美宣 虛無裂德 大E人，很會社交。喜歡寶可夢，綽號是從寶可夢來的。會扮演死神。會寫 Scratch。
+
+    9/12 的體驗社課是我們的學術小孩上的 Gemini API 入門唷，這週我們會更深入介紹 Gemini 的 API，並且帶大家進行 Python 的實作，地點在「至善 3 樓地理專科教室」。
     
     【Recent Conversation】(最多三輪) {past_text} 【User】 {user_text} 請在80字內回答問題。 
     
